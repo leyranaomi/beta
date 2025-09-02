@@ -1,0 +1,50 @@
+#contenedor{
+    width:90%;
+    margin: auto;
+    background-color: #7d7d7d;
+}
+
+#encabezado{
+    text-align: center;
+    background-color: #efd80e;
+    align-self: center;
+}
+
+#menu1{
+    background-color: #646464;
+    text-align: center;
+    padding: 0.5px;        
+    margin-bottom: 15px;
+    font-size: 30px;
+    
+}
+
+#derecha{
+    float: right;
+    background-color: #b4b3a8;
+    width: 80%;
+     color: white;
+}
+
+#izquierda{
+    background-color: #646464;
+    float: left;
+    width: 20%;
+    height: 300px;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+}
+
+#piepagina{
+    clear: both;
+    background-color: #8f0884;
+}
+
+body {
+    color: white;
+}
+h5 a {
+   color: white; 
+   text-decoration: none; 
+}
